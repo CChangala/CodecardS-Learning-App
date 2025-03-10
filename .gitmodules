@@ -1,3 +1,6 @@
 [submodule "CodecardS-Frontend"]
 	path = CodecardS-Frontend
 	url = https://github.com/CChangala/CodecardS-Frontend
+[submodule "CodecardS-Backend"]
+	path = CodecardS-Backend
+	url = https://github.com/CChangala/CodecardS-Backend
